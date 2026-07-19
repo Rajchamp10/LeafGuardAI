@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LeafGuardAI</string>
+    <string name="default_web_client_id">YOUR_ID_GOES_HERE</string>
+</resources>
